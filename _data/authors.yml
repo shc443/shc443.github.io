@@ -2,16 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Seok Hoan (Kevin)> <Choi>
+  email:             <shc443 at nyu dot edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
+    Welcome :D 
+    I am a second year Master's student @ NYU Courant advised by Prof. Arthur Jacot.
+    Before 
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
