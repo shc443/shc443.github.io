@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# $$\text{About} \prod e$$
+# $$ab_0 \mu(t) \prod e$$
 
 <!--author-->
 
