@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# <span style="color:white">$$ $$</span> $$ \alpha b_0 \mu(t) \prod e $$ $$ $$
+# <span style="color:white">$$ $$</span> $$ \Lambda_{b_0}\mu(t) \prod e $$ $$ $$
 
 <!--author-->
 
