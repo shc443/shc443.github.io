@@ -449,7 +449,7 @@ You can switch between the two implementations by changing the `kramdown.math_en
 ```yml
 # file: `_config.yml`
 kramdown:
-  math_engine:         katex
+  math_engine:         mathjax
   math_engine_opts:    {}
 ```
 
