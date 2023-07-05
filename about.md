@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# About $`\prod e`$
+# $$\text{About} \prod e$$
 
 <!--author-->
 
