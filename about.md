@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# $$ab_0 \mu(t) \prod e$$
+# $$\alpha b_0 \mu(t) \prod e$$
 
 <!--author-->
 
