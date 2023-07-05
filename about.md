@@ -9,14 +9,12 @@ redirect_from:
   - /download/
 ---
 
-# $ \alpha b_0 \mu(t) \prod e $ $$ \alpha b_0 \mu(t) \prod e $$
+# $$ \alpha b_0 \mu(t) \prod e $$
 
 <!--author-->
 
 ## Research Interest
 
-$$ \mu(t) \prod e $$
-$ \mu(t) \prod e $
 I'm broadly interested in Data Mining, Learning Theory and Applications:
 - Information Extraction, Conversational AI, and Natural Language Processing
 - Understanding and improving the training dynamics of Deep Neural Networks 	
