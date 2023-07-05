@@ -8,26 +8,30 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Welcome :D 
-    I am a second year Master's student @ NYU Courant advised by Prof. Arthur Jacot.
-    Before 
-    Open `_data/authors.yml` to edit this text.
+    Welcome! \
+    \
+    I am a 2nd year Master's student studying Mathematics specialized in AI @ NYU Courant advised by Prof. Arthur Jacot.\
+    Before this, I hold B.A. in Math & Econ @ NYU\
+    \
+    As an *extremely lazy* individual inclined towards optimization and efficiency, I am highly committed and focused on leveraging mathematics and technology to automate and streamline mundane and tedious tasks s.t. I am open to build a program in 10 hrs just to perform a task would take 10 mins.\
+    \
+    I am totally open to any discussion not only related to natural language processing and machine learning in general, but also in array-oriented functional programming languages (e.g. J & APL) and Civilization VI. Please let me buy you coffee or bubble tea if you are around NYC. :D
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/main.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            /assets/img/main.jpeg
+      2x:            /assets/img/main.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          shc443
+    email:           shc443@nyu.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -38,7 +42,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       suk_hwan_kevin_choi
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -56,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        kevin-seok-hoan-choi
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
