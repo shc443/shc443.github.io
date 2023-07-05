@@ -10,7 +10,7 @@ slug: projects
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a webpage for posting my own public projects even though most of them are confidential :[
+  This is a webpage for posting my previous projects (updating on going) :D
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
