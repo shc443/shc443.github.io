@@ -10,7 +10,7 @@ slug: misc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a webpage for posting my previous projects (updating on going) :D
+  random thoughts, etc ...
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
