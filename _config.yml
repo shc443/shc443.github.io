@@ -53,8 +53,8 @@ menu:
     url:               /about/
   - title:             Projects
     url:               /projects/
-  - title:             Blog
-    url:               /blog/
+  - title:             Misc
+    url:               /misc/
 
 
 # Add links to the footer.
