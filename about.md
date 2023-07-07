@@ -42,6 +42,18 @@ Sep 2015 - Jun 2017
 **Haver Analytics**, *Research Assistant @ High Frequency Econ/Financial Data Team*\
 Jun 2015 - Sep 2015
 
+## Contact me
+
+I am also totally open to any discussion not only related to natural language processing and machine learning in general, but also in array-oriented functional programming languages (e.g. J & APL) and Civilization VI. Please let me buy you coffee or bubble tea (beer even better)if you are around NYC  :D
+
+*email* : shc443 at nyu dot edu\
+*phone* : 917 - 270 - $$ acbc, where a, b, c \in \mathbb{N} s.t. a = -e^{i\pi}, b = \sum_{i = 0}^{+\imf}\frac{1}{2^i}, c = \begin{vmatrix}
+a+b & a\\
+B & a+b
+\end{vmatrix}
+$$
+
+
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
