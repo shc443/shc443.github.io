@@ -44,12 +44,14 @@ Jun 2015 - Sep 2015
 
 ## Contact me
 
-I am also totally open to any discussion not only related to natural language processing and machine learning in general, but also in array-oriented functional programming languages (e.g. J & APL) and Civilization VI. Please let me buy you coffee or bubble tea (beer even better)if you are around NYC  :D
+I hold a deep commitment to the education of young students (from kindergarten to undergrad), which is a matter I take very seriously. If you need any help with math or ML, feel free to reach out! 
+
+I am also totally open to any discussion not only related to natural language processing and machine learning in general, but also in array-oriented functional programming languages (e.g. J & APL) and Civilization VI. Please let me buy you coffee or bubble tea (beer even better)if you are around NYC
 
 *email* : shc443 at nyu dot edu\
-*phone* : 917 - 270 - $$ acbc, where \quad a, b, c \in \mathbb{N} \quad s.t. \quada = -e^{i\pi}, \quad b = \sum_{i = 0}^{+\inf}\frac{1}{2^i}, \quad c = \begin{vmatrix}
+*phone* : 917 - 270 - $$ acbc, \quad where \quad a, b, c \in \mathbb{N} \quad s.t. \quad a = -e^{i\pi}, \quad b = \sum_{i = 0}^{+ \infty}\frac{1}{2^i}, \quad c = \begin{vmatrix}
 a+b & a\\
-B & a+b
+b & a+b
 \end{vmatrix}
 $$
 
