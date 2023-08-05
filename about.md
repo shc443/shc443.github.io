@@ -42,6 +42,15 @@ Sep 2015 - Jun 2017
 **Haver Analytics**, *Research Assistant @ High Frequency Econ/Financial Data Team*\
 Jun 2015 - Sep 2015
 
+## Teaching Experience
+
+**MATH-UA 133 Mathematics for Economics III ($$\approx$$ Calculus III)**, *Fall 23*\
+
+**MATH-UA 132 Calculus I**, *Fall 23*\
+
+**MATH-UA 132 Mathematics for Economics II ($$\approx$$ Calculus II)**, *Fall 22*\
+
+
 ## Contact me
 
 I hold a deep commitment to the education of young students (from kindergarten to undergrad), which is a matter I take very seriously. If you need any help with math or ML, feel free to reach out! 
