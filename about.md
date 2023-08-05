@@ -45,7 +45,7 @@ Jun 2015 - Sep 2015
 ## Teaching Experience
 
 *MATH-UA 133 Mathematics for Economics III ($$\simeq$$ Calculus III), Fall 2023*\
-*MATH-UA 132 Calculus I, Fall 2023*\
+*MATH-UA 121 Calculus I, Fall 2023*\
 *MATH-UA 132 Mathematics for Economics II ($$\simeq$$ Calculus II), *Fall 2022*
 
 
