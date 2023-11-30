@@ -28,7 +28,7 @@ I'm broadly interested in Data Mining, Learning Theory and Applications:
 ## Professional Experience
 
 **Xinapse.ai**, *AI Research Engineer @ NLU & Speech team*\
-Nov 2020 - Jul 2023
+Nov 2020 - Dec 2023
 
 **XLP Capital**, *Quantitative Researcher*\
 Oct 2019 - Jul 2020
@@ -44,9 +44,8 @@ Jun 2015 - Sep 2015
 
 ## Teaching Experience
 
-*MATH-UA 133 Mathematics for Economics III ($$\simeq$$ Calculus III), Fall 2023*\
 *MATH-UA 121 Calculus I, Fall 2023*\
-*MATH-UA 132 Mathematics for Economics II ($$\simeq$$ Calculus II), *Fall 2022*
+*MATH-UA 132 Mathematics for Economics II ($$\simeq$$ Calculus II), *Fall 2022 2023*
 
 
 ## Contact me
