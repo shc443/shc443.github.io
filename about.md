@@ -22,7 +22,7 @@ I'm broadly interested in Data Mining, Learning Theory and Applications:
 ## Education
 
 **New York University**\
-*M.S. in Mathematics, (Jan 2022 - Exp. Dec 2023)*\
+*M.S. in Mathematics, (Jan 2022 - Exp. May 2024)*\
 *B.A. in Mathematics & Economics, (Sep 2013 - May 2019)*
 
 ## Professional Experience
